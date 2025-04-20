@@ -6,8 +6,23 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A11HCjGjb/)
 
 ## Sobre mi
+Soy un desarrollador apasionado a escribir código y crear soluciones.
 
-## *Proyectos*
+### 🚀 Actualmente estoy:
+- 📚 Estudiando Tecnólogo en Desarrollo de Software y diplomado en scrum master
+- 💻 Trabajando en proyectos de desarrollo móvil con kotlin y jeckpack compose
+- 🔧 Aprendiendo sobre WebRTC, Electron y diseño de experiencias de usuario
+
+### 🛠️ Skills:
+<div id="badges">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt"HTML">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt"CSS">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt"JavaScript">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt"Java">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt"MYSQL">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
