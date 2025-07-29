@@ -9,7 +9,7 @@
 Soy un desarrollador apasionado a escribir código y crear soluciones.
 
 ### 🚀 Actualmente estoy:
-- 📚 Estudiando Tecnólogo en Desarrollo de Software y diplomado en scrum master
+- 📚 Cursando la Ingenieria Informatica
 - 💻 Trabajando en proyectos de desarrollo móvil con kotlin y jeckpack compose
 - 🔧 Aprendiendo sobre WebRTC, Electron y diseño de experiencias de usuario
 
