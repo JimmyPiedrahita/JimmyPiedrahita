@@ -10,7 +10,7 @@
 </div>
 
 ## Sobre mi
-Soy Tecnologo en Desarrollo de Software y actual estudiante de 5to semestre de Ingenieria Informatica. Me especializo en el desarrollo Fullstack y la creacion de aplicaciones moviles, combinando bases tecnicas solidas con un enfoque centrado en la experiencia del usuario (UX).
+Soy Tecnologo en Desarrollo de Software y actual estudiante de 7to semestre de Ingenieria Informatica. Me especializo en el desarrollo Fullstack y la creacion de aplicaciones moviles, combinando bases tecnicas solidas con un enfoque centrado en la experiencia del usuario (UX).
 
 * Actualmente trabajando en: Proyectos de desarrollo movil con Kotlin y Jetpack Compose.
 * Explorando y aprendiendo: WebRTC, Electron y diseno de experiencias de usuario.
